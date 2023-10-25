@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/kristinafrdx)
+[![codewars](https://www.codewars.com/users/kristinafrdx/badges/large)](https://www.codewars.com/users/kristinafrdx)
 
 ![](https://komarev.com/ghpvc/?username=kristinafrdx)
 
