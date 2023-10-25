@@ -8,9 +8,25 @@
 <h3>Education:</h3>
 'Hexlet', 2023
 <h3>My hard skills:</h3>
-<p>
-HTML5, CSS(flex, grid), Git, JavaScript(ES6+), React, Tests(jest, CI), code coverage, code climate, ESlint, Prettieh, Figma, bash/zsh, OOP, asynchronous programming
-</p>
+<ul>
+  <li>HTML5</li>
+  <li>CSS(flex, grid)</li>
+  <li>Git</li>
+  <li>JavaScript(ES6+)</li>
+  <li>React</li>
+  <li>Tests(jest, CI)</li>
+  <li>Code coverage, code climate, ESlint, Prettieh</li>
+  <li>Figma</li>
+  <li>bash/zsh</li>
+  <li>OOP</li>
+  <li>asynchronous programming</li>
+  <li>HTTP-protocol/<li>
+</ul>
+<h3>Lang</h3>
+<ul>
+  <li>Russian</li>
+  <li>English</li>
+</ul>
 
 [![codewars](https://www.codewars.com/users/kristinafrdx/badges/large)](https://www.codewars.com/users/kristinafrdx)
 
