@@ -3,8 +3,8 @@
 
 
 <h2>About me:</h2>
-#### My name is Kristina.
-#### Studying like a lifestyle.
+My name is Kristina.
+Studying like a lifestyle.
 <p>I'm a junior frontend-developer.</p>
 <h3>Education:</h3>
 'Hexlet', 2023
