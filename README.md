@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristina 👋
 <h1 align="center">Hi there, I'm <a href="https://github.com/kristinafrdx?tab=repositories" target="_blank">Kristina</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px" width="30px"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
 
 
 <h2>About me</h2>
@@ -8,12 +8,7 @@
 </p>
 
 <h3>My hard skills</h3>
-<img src="./img/html5.svg" alt="html" heigth="30px" width="30px">
-<img src="./img/css3.svg" alt="css" heigth="30" width="30">
-<img src="./img/jss.svg" alt="js" heigth="30" width="30">
-<img src="./img/jest.svg" alt="jest" heigth="30" width="30">
-<img src="./img/nodedotjs.svg" alt="node.js" heigth="30" width="30">
-<img src="./img/openai.svg" alt="openai" heigth="30" width="30">
+<img src="./img/html5.svg" alt="html" heigth="30px" width="35px"><img src="./img/css3.svg" alt="css" heigth="30px" width="35px"><img src="./img/jss.svg" alt="js" heigth="30px" width="35px><img src="./img/jest.svg" alt="jest" heigth="30px" width="35px"><img src="./img/nodedotjs.svg" alt="node.js" heigth="30" width="35"><img src="./img/openai.svg" alt="openai" heigth="30" width="35">
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
