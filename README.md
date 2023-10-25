@@ -3,8 +3,8 @@
 
 
 <h2>About me:</h2>
-My name is Kristina.
-Studying like a lifestyle.
+#### My name is Kristina.
+#### Studying like a lifestyle.
 <p>I'm a junior frontend-developer.</p>
 <h3>Education:</h3>
 'Hexlet', 2023
@@ -21,7 +21,7 @@ Studying like a lifestyle.
   <li>bash/zsh</li>
   <li>OOP</li>
   <li>asynchronous programming</li>
-  <li>HTTP-protocol/<li>
+  <li>HTTP-protocol</li>
 </ul>
 <h3>Lang</h3>
 <ul>
