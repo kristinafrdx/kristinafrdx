@@ -1,26 +1,15 @@
-### Hi there, I'm Kristina 👋
 <h1 align="center">Hi there, I'm <a href="https://github.com/kristinafrdx?tab=repositories" target="_blank">Kristina</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25px" width="30px"/></h1>
 
 
 <h2>About me</h2>
-<p>My name is Kristina. I'm studying every day. Here you can look at my first works.
+<p>My name is Kristina. I'm a student 'Hexlet. I'm a junior frontend-developer.
 </p>
 
-*<h3>My hard skills</h3>*
+**<h3>My hard skills</h3>**
 <p>
-HTML5
-CSS(flex, grid)
-Git
-JavaScript(ES6+)
-Tests(jest, CI)
-Code coverage, code climate, ESlint, Prettieh
-Figma, adobe premier pro
-React
-Bash/zsh
-OOP, asynchronous programming
+HTML5, CSS(flex, grid), Git, JavaScript(ES6+), React, Tests(jest, CI), code coverage, code climate, ESlint, Prettieh, Figma, bash/zsh, OOP, asynchronous programming
 </p>
-
 
 [![codewars](https://www.codewars.com/users/kristinafrdx/badges/large)](https://www.codewars.com/users/kristinafrdx)
 
