@@ -29,7 +29,8 @@ Studying like a lifestyle.
   <li>English</li>
 </ul>
 
-* 🌍  I'm based in Tbilisi * ✉️  You can contact me at [kristina.frdx@mail.ru](mailto:kristina.frdx@mail.ru)
+* 🌍  I'm based in Tbilisi
+*  ✉️  You can contact me at [kristina.frdx@mail.ru](mailto:kristina.frdx@mail.ru)
 
 [![codewars](https://www.codewars.com/users/kristinafrdx/badges/large)](https://www.codewars.com/users/kristinafrdx)
 
