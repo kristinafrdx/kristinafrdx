@@ -3,8 +3,9 @@
 
 
 <h2>About me:</h2>
-<p>My name is Kristina.<br>Studying like a lifestyle</p>
-<p>I'm a junior *frontend-developer*.</p>
+#### My name is Kristina.####
+*### Studying like a lifestyle.###*
+<p>I'm a junior frontend-developer.</p>
 <h3>Education:</h3>
 'Hexlet', 2023
 <h3>My hard skills:</h3>
