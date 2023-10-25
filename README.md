@@ -5,9 +5,9 @@
 <h2>About me:</h2>
 <p>My name is Kristina. Studying like a lifestyle</p>
 <p>I'm a junior frontend-developer.</p>
-**<h3>Education:</h3>**
+<h3>Education:</h3>
 'Hexlet', 2023
-**<h3>My hard skills:</h3>**
+<h3>My hard skills:</h3>
 <p>
 HTML5, CSS(flex, grid), Git, JavaScript(ES6+), React, Tests(jest, CI), code coverage, code climate, ESlint, Prettieh, Figma, bash/zsh, OOP, asynchronous programming
 </p>
